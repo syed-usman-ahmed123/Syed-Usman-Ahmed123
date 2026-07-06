@@ -30,8 +30,9 @@ Passionate about web development, problem-solving, and building modern web appli
 
 ---
 
-## 🔗 Live Portfolio
- **Check out my live work here:** [syedusmanahmed.vercel.app](https://syedusmanahmed.vercel.app/)
+## 🔗 Live Portfolio & Links
+*  **Main Portfolio:** [syedusmanahmed.vercel.app](https://syedusmanahmed.vercel.app/)
+*  **All Social Profiles:** [Syed Usman Ahmed - Links Profile](https://usmansociallinksprofile.netlify.app/)
 
 ---
 
@@ -67,3 +68,4 @@ WordPress Elementor clone of Driven for Growth website.
 ##  Contact & Connect
 * **LinkedIn:** [Syed Usman Ahmed](https://www.linkedin.com/in/syed-usman-ahmed-9bb3b8397/)
 * **Email:** usmanahmed.professional@gmail.com
+
